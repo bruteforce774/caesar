@@ -1,0 +1,4 @@
+The Vigenère cipher was considered unbreakable for over three hundred years.
+It was called Le Chiffre Indéchiffrable, the undecipherable cipher.
+The breakthrough came in 1863 when Friedrich Kasiski published his method.
+This attack exploits the repeating key to break what was once thought secure.
